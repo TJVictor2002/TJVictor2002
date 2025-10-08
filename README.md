@@ -1,5 +1,4 @@
-# <a href="https://www.linkedin.com/in/toluwalase-ajani-1a1b1224b/">Toluwalase Ajani</a>'s Cybersecurity Portfolio: Building Secure System 🔐
-
+# <a href="https://www.linkedin.com/in/toluwalase-ajani-1a1b1224b/">Toluwalase Ajani</a>'s Cybersecurity Portfolio: Building Secure Systems
 Once a lost college student, now a cybersecurity enthusiast obsessed with solving complex problems through real-world projects. 
 
 From vulnerability management to threat detection, I focus on building practical solutions that enhance security operations and processes. 
